@@ -1,0 +1,25 @@
+Holzzuschnitt:				
+#	Breite [cm]	Länge [cm]	Funktion	Flächeninhalt [m²]
+4	16	33	Boden und Decke	0,21
+2	12,2	33	Rückwand	0,08
+4	12,2	14,1	Linke und Rechte Wand	0,07
+2	12,2	10	Abtrennung Bassreflex	0,02
+2	8,4	10	Steg Bassreflex	0,02
+2	12,2	25,4	Front	0,06
+1	16	16	Front Verstärker	0,03
+2	12,2	16	Boden und Decke Verstärker	0,04
+2	12,2	14,1	Linke und Rechte Wand Verstärker	0,03
+2	12,2	12,2	Boden Schlitten + Rückwand Schlitten	0,03
+			Summe:	0,59
+				
+				
+Soundbar:				
+#	Breite [cm]	Länge [cm]	Funktion	Flächeninhalt [m²]
+2	16	78,2	Boden und Decke	0,25
+2	12,2	33	Rückwand Hälften	0,08
+4	12,2	14,1	Wände	0,07
+2	12,2	10	Abtrennung Bassreflex	0,02
+2	8,4	10	Steg Bassreflex	0,02
+2	12,2	25,4	Front	0,06
+3	12,2	12,2	Front Verstärker + Rückwand und Boden Schlitten	0,04
+			Summe:	0,55
